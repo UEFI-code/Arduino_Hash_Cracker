@@ -4,9 +4,13 @@
 
 ## Using C/C++ For High Efficacy!
 
-## Working on almost all Arduino MCU, including ESP8266(need little edit the analog pin for randomSeed)!
+## Working on almost all Arduino MCU, including ESP8266!
 
-## Working on Non-Arduino MCU for just little edit(like Serial Communication code).
+(Maybe need little edit the Analog pin for randomSeed)!
+
+## Working on Non-Arduino MCU for just little edit
+
+(like Serial Communication code).
 
 ### Please conside donation this project for Large-Scale hash cracking workstation!
 
