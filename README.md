@@ -10,7 +10,7 @@ Current Supported Hash: SHA256, (Will add more)
 
 ## Working on Non-Arduino MCU for just little edit.
 
-(like Serial Communication code in STM32).
+(like Serial Communication's & Random Function's code for STM32).
 
 ### Next Step:
 
