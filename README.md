@@ -1,14 +1,14 @@
 # Arduino Hash Cracker
 
-Current Supported Hash: SHA256, (Will add more)
+Using C/C++ For High Efficacy!
 
-## Using C/C++ For High Efficacy!
+Current Supported Hash: SHA256, (Will add more)
 
 ## Working on almost all Arduino MCU, including ESP8266!
 
 (Maybe need little edit the Analog pin for randomSeed)!
 
-## Working on Non-Arduino MCU for just little edit
+## Working on Non-Arduino MCU for just little edit.
 
 (like Serial Communication code).
 
